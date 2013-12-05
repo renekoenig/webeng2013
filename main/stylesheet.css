@@ -1,0 +1,30 @@
+body {
+	background-color: #D6D0E6;
+}
+
+h1 {
+	text-decoration: underline;
+}
+
+.table {
+	width: 80%;
+}
+
+.table, th, td {
+	border : 1px solid #99B3E7;
+	padding-left : 0px;
+	padding-right :0px;
+	border-radius: 5px;
+}
+	
+.th_left {
+	text-align: left;
+}
+
+.th_center {
+	text-align: center;
+}
+
+.tag_kapitel {
+	font-weight: bold;	
+}
